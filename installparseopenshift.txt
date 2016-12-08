@@ -1,0 +1,1 @@
+http://www.anttdev.com/2016/02/how-to-install-your-own-parse-server-on-openshift/
