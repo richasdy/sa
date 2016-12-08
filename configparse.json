@@ -1,0 +1,28 @@
+{
+	name: "Parse Server Donni Richasdy",
+	description: "An Parse API server using the parse-server module",
+	repository: "https://",
+	logo: "https://",
+	keywords: [
+	"node",
+	"express",
+	"parse"
+	],
+	env: {
+		PARSE_MOUNT: {
+			description: "Configure Parse API route.",
+			value: "/parse"
+			},
+			APP_ID: {
+				description: "A unique identifier for your app.",
+				value: "appid"
+				},
+				MASTER_KEY: {
+					description: "A key that overrides all permissions. Keep this secret.",
+					value: "masterkey"
+					}
+					},
+					addons: [
+					"mongolab"
+					]
+				}
