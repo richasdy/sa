@@ -16,6 +16,8 @@ echo "============================================"
 adduser richasdy
 adduser richasdy sudo
 
+
+# adding certificate
 # cat ~/.ssh/id_rsa.pub | ssh root@[your.ip.address.here] "cat >> ~/.ssh/authorized_keys"
 # cat ~/richasdymbp | ssh richasdy@128.199.92.178 "cat >> ~/.ssh/authorized_keys"
 
