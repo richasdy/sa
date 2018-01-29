@@ -1,0 +1,30 @@
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+
+native-path:          BAT0
+  vendor:               SANYO
+  model:                L12S4E01
+  serial:               5619
+  power supply:         yes
+  updated:              Kam 25 Jan 2018 03:58:03  WIB (38 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               charging
+    warning-level:       none
+    energy:              32,78 Wh
+    energy-empty:        0 Wh
+    energy-full:         42,92 Wh
+    energy-full-design:  38,88 Wh
+    energy-rate:         11,612 W
+    voltage:             15,842 V
+    time to full:        52,4 minutes
+    percentage:          76%
+    capacity:            100%
+    technology:          lithium-ion
+    icon-name:          'battery-full-charging-symbolic'
+  History (charge):
+    1516870683	76,000	charging
+  History (rate):
+    1516870683	11,612	charging
