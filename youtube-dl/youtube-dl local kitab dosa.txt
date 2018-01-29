@@ -1,0 +1,3 @@
+Dosa
+Al Kabair -  Abu Takeru
+youtube-dl https://www.youtube.com/playlist?list=PLjT2FI9KGIGFTvtiPV6q7xzdCrLxQfNLJ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

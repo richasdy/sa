@@ -1,0 +1,209 @@
+Youtube Playlist Download
+http://www.downvids.net/download-youtube-playlist-videos
+http://megavn.com/
+
+YOUTUBE-DL
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader aria2c
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader axel --write-auto-sub
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader axel --list-subs
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader axel --sub-lang id
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader axel --all-subs
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader axel --write-auto-sub --sub-format best
+youtube-dl https://www.youtube.com/watch?v=KhIeLXrwGGQ --external-downloader axel --write-auto-sub --sub-format srt --> tetap vvt
+
+
+ACTION
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --external-downloader aria2c --write-auto-sub
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --external-downloader axel --write-auto-sub
+
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --external-downloader axel --write-auto-sub --playlist-start 3
+
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --format 'bestvideo[ext=mp4]+bestaudio[ext=m4a]' --external-downloader axel --write-auto-sub 
+
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --format 'bestvideo[ext=mp4]+bestaudio[ext=m4a]' --external-downloader axel --write-auto-sub --playlist-start 6
+
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --format 'bestvideo[height<=720]+bestaudio/best[height<=720]' --external-downloader axel --write-auto-sub 
+
+youtube-dl https://www.youtube.com/playlist?list=PLWuskLOeEb4pLWTzT757-WsesC2HH6RyE --format 'bestvideo[height<=720]+bestaudio/best[height<=720]' --external-downloader axel --write-auto-sub --ignore-errors
+
+
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkeSUiPOvvAO8_VcEKD0dZ_c --format 'bestvideo[height<=720+ext=mp4]+bestaudio/best[height<=720+ext=m4a]' --external-downloader axel --write-auto-sub --playlist-start 2 --playlist-end 4 --> G jalan
+
+youtube-dl https://www.youtube.com/watch?v=HfUlhpDILVc --format 'bestvideo[height<=720+ext=mp4]+bestaudio/best[height<=720+ext=m4a]' --external-downloader axel --write-auto-sub --> G jalan
+youtube-dl https://www.youtube.com/watch?v=cd7ryrj9XRM --format 'bestvideo[height<=720+ext=mp4]+bestaudio/best[height<=720+ext=m4a]' --external-downloader axel --write-auto-sub --> G jalan
+youtube-dl https://www.youtube.com/watch?v=ZCwp0FQIGAY --format 'bestvideo[height<=720+ext=mp4]+bestaudio/best[height<=720+ext=m4a]' --external-downloader axel --write-auto-sub --> G jalan
+
+Al Ushul Ats Tsalatsah - Ustadz Jihad
+youtube-dl https://www.youtube.com/playlist?list=PLc1mXVdI4n_kWnPrqVx13MV-YAU4fDrHi --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Al Ushul Ats Tsalatsah - Ustadz Jihad MP3 ONLY
+youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLc1mXVdI4n_kWnPrqVx13MV-YAU4fDrHi
+
+Explanation of Thalaathatul Al-Usool Ustadh AbdulRahman Hassan
+youtube-dl https://www.youtube.com/playlist?list=PL2dRQaGGWZOAW9VrMN7HpHSYykChUZRsy --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Explanation Of Thalaathatu Usool Ustadh AbdulRahman Hassan
+youtube-dl https://www.youtube.com/playlist?list=PL2dRQaGGWZOBfdpP998y3r8aLJfneH9mR --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+
+[SYARH TSALATSAH AL-USHUL]
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADneCx7lq7W7DpWKu7FI4kf3 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+[SYARH AL-USHUL ATS-TSALATSAH]
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADm27JfpjyjN1T5T9trs51HQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+AL-QAWAID AL-ARBA - Hasan Al Jaizy
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADnSxfJHGzcjk-ks_SiLCFjR --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Explanation of Al-Qawa'aid al-Arbaah (The Four Principles) Ustadh AbdulRahman Hassan
+youtube-dl https://www.youtube.com/playlist?list=PL2dRQaGGWZOCBNUokI7vfezZaZsRUjQlS --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Kitab Kasyfu Syubhat - Ustadz Abu Yaman
+youtube-dl https://www.youtube.com/playlist?list=PLc1mXVdI4n_mFgj-Muuw80kZKi4nh8JvM --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Al Ustadz Dzulqarnain Kasyfu Syubuhat
+youtube-dl https://www.youtube.com/playlist?list=PLT_wRCMuiSBrk4cfgxjH-EwgIGVFPXhJG --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+
+Explanation Of Usool As Sittah || Ustadh AbdulRahman Hassan
+youtube-dl https://www.youtube.com/playlist?list=PL2dRQaGGWZOBQtm-k0Xf8US_kZzflroA3 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Lumatul Itiqad - Ustadz M Abduh Tuasikal
+youtube-dl https://www.youtube.com/playlist?list=PLUYZIGi0rAXDn3U7qqi0H5dnSV89CLwX3 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Ushul Assunnah - Ilmu salaf dot com - USTAZ IDRIS BIN SULAIMAN - playlist ABDUL QAADR BIN ABDUL MANAF
+youtube-dl https://www.youtube.com/playlist?list=PLsGyF7LoLNd9AoCkjkRqo4E5XRi7PnNqK --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+AL-IRSYAD ILA SHAHIH AL-ITIQAD - Hasan Al Jaizy
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADm_oVlOVySdbymzYoCrxEhx --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+AL-AQIDAH AL-WASITHIYYAH - Hasan Al Jaizy
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADkIIiaYs26zi-xyulQqZqJY --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Al-Aqidah Al-Wasithiyyah - Ustadz Isnan Effendi
+youtube-dl https://www.youtube.com/playlist?list=PLZVRcSxOgpDV9vmDnaJcXlHqkK8S640Ej --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Aqidah Al Wasithiyah - Ustadz Aris Munandar
+youtube-dl https://www.youtube.com/playlist?list=PL5Sxs2vVtyCSNeTCROGTnH2Fw-Kjv9O5x --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+
+Aqidah Al Wasithiyah - Ustadz Aris Munandar
+youtube-dl https://www.youtube.com/playlist?list=PL5Sxs2vVtyCSNeTCROGTnH2Fw-Kjv9O5x --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Syarah Aqidah Wasithiyah - Ust Muhtarom
+youtube-dl https://www.youtube.com/playlist?list=PLyaRXP7txxE07oZoeHMfUXIqbo6QzSqPq --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Pengajian Aqidah - Ustadz Aris Munandar
+youtube-dl https://www.youtube.com/playlist?list=PLUuYlj8dcEXaY4-m2elcon9VeofMGzpjx --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Al-Aqidah Ath-Thahawiyyah - Al-Fadhil Dato Dr Johari Mat
+youtube-dl https://www.youtube.com/playlist?list=PLAc6B3ulGMsGgjt3OYNXKutXiNN34q8sN --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Syarah Aqidah Thohawiyah -  Dr Ali Musri
+youtube-dl https://www.youtube.com/playlist?list=PLcVYDt9adB3IWHtwctNs81azZex8zT-Gk --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Kajian Kitab TAFSIR IBNU KATSIR (Al-Mishbah al-Munir) - Hasan Al Jaizy
+Hasan Al Jaizy - 12 Video	Tafsir Al-Qur’an Al-‘Azhim: Ibnu Katsir.
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADnPv-X1To6oNIjJgX6gg5os --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Kajian Rutin Kitab Tafsir Ibnu Katsir Juz Amma - Ust Oemar Mita Lc
+Oemar Mita Syameela	Tafsir Al-Qur’an Al-‘Azhim: Ibnu Katsir. - juz amma
+youtube-dl https://www.youtube.com/playlist?list=PL9BARAmjJ7UMJa-APaNDPel0pSRnTXHTp --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir Ibnu Katsir - Ust. Idris Sulaiman
+ilmu salaf dot com - Ust. Idris Sulaiman	Tafsir Al-Qur’an Al-‘Azhim: Ibnu Katsir.
+youtube-dl https://www.youtube.com/playlist?list=PL0Tc1ayIZ5Ov-iQl3XUFtdKCYPEbm9va5 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Kajian Kitab Tafsir Ibnu Katsir - Ustadz Abu Yahya Badrusalam
+Rodja TV - Ustadz Abu Yahya Badrusalam, Lc	Tafsir Al-Qur’an Al-‘Azhim: Ibnu Katsir. - juz 29
+youtube-dl https://www.youtube.com/playlist?list=PLkoppbLhnzfb9shievHcemSOYHB2uLRQ9 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir ibnu katsir - Hasan Al Jaizy
+Hasan Al Jaizy - Fery Fahmi 84 Video	Tafsir Al-Qur’an Al-‘Azhim: Ibnu Katsir.
+youtube-dl https://www.youtube.com/playlist?list=PLi-R2FBvc9fHvGSDwfTqbcwp-4v49E7Ni --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+KAJIAN TAFSIR AL-QURAN - TAFSIR IBNU KATSIR
+Sahabat Alihsan - Ust. Abdullah Amin, Lc, MA	Tafsir Al-Qur’an Al-‘Azhim: Ibnu Katsir. -  ali imran
+youtube-dl https://www.youtube.com/playlist?list=PLiD-FAEqmvRKRL0pfFPxmWP9YE0EUq7lt --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+TAFSIR AL-JALALAIN - Hasan Al Jaizy
+Hasan Al Jaizy	Tafsir Al-Jalalain
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADlKjuWrdCHwR_FdwjhoDvq5 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir Jalalain - Habib Taufiq
+Sunniyah Salafiyah - Habib Taufiq 	Tafsir Al-Jalalain
+youtube-dl https://www.youtube.com/playlist?list=PLkEBoO3O8Yc9F5-0NmM63EDt1JlKAszI2 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+KAJIAN TAFSIR AL JALALAIN - Ustadz Muhammad Syahri
+TABI'IN TV - Ustadz Muhammad Syahri	Tafsir Al-Jalalain
+youtube-dl https://www.youtube.com/playlist?list=PLygjpAyvi3jFg8Nr1ImzCoGI9Okp8CjDs --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Pengajian Kitab Tafsir Al Quran Tafsir Jalalain - Al-Fadhil Ustaz Al Habib Dr Sayyed Abdul Hamid Al-Mahdaly Al-Azhari
+Majlisuzzikr - Al-Fadhil Ustaz Al Habib Dr Sayyed Abdul Hamid Al-Mahdaly Al-Azhari	Tafsir Al-Jalalain
+youtube-dl https://www.youtube.com/playlist?list=PL7dRX7xYPMRUNFjWTfYzYx-c-RQWmigzP --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Madros - Tafsir Jalalain
+Sunsal Media	Tafsir Al-Jalalain
+youtube-dl https://www.youtube.com/playlist?list=PLHrl21zP5MZ-Y_qwHUda4bE0eg1wRJW_u --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+TAFSIR JUZ AMMA (Al-Mukhtashar fi at-Tafsir) - Hasan Al Jaizy
+Hasan Al Jaizy	Al-Mukhtashar fi At-Tafsir ( Juz Amma )
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADni69Ar33ReU7jDGyybXOWW --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Kajian Tafsir Juz Amma - Ustadz Abu Yahya Badrusalam
+Rodja TV - Ustadz Abu Yahya Badrusalam, Lc	Tafsir Juz Amma
+youtube-dl https://www.youtube.com/playlist?list=PLseq-fHAuj5B3-z4ccW8Q0A_MyC14VKtw --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafseer of Juz Amma - Nouman Ali Khan
+IsmaelIsaac100 -  Nouman Ali Khan	Tafsir Juz Amma	
+youtube-dl https://www.youtube.com/playlist?list=PL25AD5F33DE986868 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir Juz Amma - Ustadz M Abduh Tuasikal
+Rumaysho TV - Ustadz M Abduh Tuasikal	Tafsir Juz Amma	
+youtube-dl https://www.youtube.com/playlist?list=PLUYZIGi0rAXCSZ0C8RuqWayuBNN6msEED --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub  --ignore-errors
+
+Kajian Rutin Kitab Tafsir Ibnu Katsir Juz Amma - Ust Oemar Mita Lc
+Oemar Mita Syameela	Tafsir Juz Amma -  Ibnu Katsir	
+youtube-dl https://www.youtube.com/playlist?list=PL9BARAmjJ7UMJa-APaNDPel0pSRnTXHTp --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub  --ignore-errors
+
+Kajian Tafsir Juz Amma  - Ustadz Abdullah Zaen
+Yufid TV - Ustadz Abdullah Zaen	Tafsir Juz Amma	
+youtube-dl https://www.youtube.com/playlist?list=PLcaizwAhrRylLts6yEcm6n6XRt7fPW9xd --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub  --ignore-errors
+
+short Tafsir Juz 1-30 - Nouman Ali Khan
+Quran Weekly -  Nouman Ali Khan	Tafsir Juz Amma	
+youtube-dl https://www.youtube.com/playlist?list=PLH4aS0jYIVhbElVWaHyKDCtLDaBcA_DVv --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir Juz Amma - Ustadz Khairullah Anwar Luthfi Lc
+DakwahSunnahDotCom - Ustadz Khairullah Anwar Luthfi, Lc	Tafsir Juz Amma
+youtube-dl https://www.youtube.com/playlist?list=PLWmTzu8iHl-Mq03UfpSaRDtw8BGZdXoRU --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub  --ignore-errors
+
+Tafsir Juz Amma - Ustadh Nouman Ali Khan
+stephka -  Nouman Ali Khan	Tafsir Juz Amma	
+youtube-dl https://www.youtube.com/playlist?list=PL43hMnkUumRuCyvp8A9Cre9M1ML3P6b2f --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Illustrated Tafseer Quran Juz Amma (Juz 30) - Nouman Ali Kan
+Pembelajar Quran -  Nouman Ali Khan Ilustrated	Tafsir Juz Amma	
+youtube-dl https://www.youtube.com/playlist?list=PLqGYFqqiQXnT4o3sLJmYLUQebhqMmKgzt --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Kajian Tafsir As Sadi - Ustadz Ahmad Zainuddin Al Banjary
+DakwahSunnahDotCom - Ustadz Ahmad Zainuddin Al Banjary	Tafsir As-Sa’di - 161 Video	
+youtube-dl https://www.youtube.com/playlist?list=PLWmTzu8iHl-Mb5hTknjHh2BuX0egozu8P --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir as Sa di - Ustadz Ahmad Zainuddin Lc
+DakwahSunnahDotCom - Ustadz Ahmad Zainuddin,Lc	Tafsir As-Sa’di -  22 Video	
+youtube-dl https://www.youtube.com/playlist?list=PL1N7B-208i-Js34KPTgO-wy9fI5jAfeFH --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Tafsir As-Sadi - Hasan Al-Jaizy
+Hasan Al Jaizy	Tafsir As-Sa’di	
+youtube-dl https://www.youtube.com/playlist?list=PLP5vPDGfSSxn7_byqVMo_HuW0RsPYlR-B --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+TAFSIR AL-AISAR - Hasan Al Jaizy
+Hasan Al Jaizy - 135 Video	Aysar At-Tafasir
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADm_iizkja1DM882DtgDheQJ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+TAFSIR AL-AISAR2 - Hasan Al Jaizy
+Hasan Al Jaizy - 5 Video	Aysar At-Tafasir
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADm3jCwS10_eWPF54gMWF1Cb --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+

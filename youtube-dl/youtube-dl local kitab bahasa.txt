@@ -1,0 +1,32 @@
+Bahasa Arab Al-Muyassar - Ustadz M Abduh Tuasikal
+youtube-dl https://www.youtube.com/playlist?list=PLUYZIGi0rAXBBTLhdVPFTd6XvbTnTS2EG --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+
+
+
+Al-Muqaddimah Al-Ajurromiyyah - Muhammad bin Muhammad bin Aajurroma Ash-Shinhaji
+Al-AJurumiyyah - Ustadz Abu Haidar As-Sundawy
+youtube-dl https://www.youtube.com/playlist?list=PLuzOug4AQzwc7mfHT9jWYsqmHzvPfxMWn --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Classical Arabic Grammar manual - Al-Ajrumiyyah
+youtube-dl https://www.youtube.com/playlist?list=PL7VxbCzUM8yxHe9s-QapzedLr5IxiOxZ2 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Matn Al Ajurrumiyyah
+youtube-dl https://www.youtube.com/playlist?list=PLOeMiyFZeGMcIxP1R5Eb1D97OzGp07bT6 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Muqadimmah Ajrumiyyah English
+youtube-dl https://www.youtube.com/playlist?list=PLJaG8FiRtCXh8KYQNxevvbZAs5maS-yyx --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+
+
+
+Mukhtarat Qawaiid Al-Lughah Al-Arabiyyah
+Mulakhos
+youtube-dl https://www.youtube.com/playlist?list=PLgycHVGUVPhuomzJulHBWbc6p0PTL5dNk --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Mukhtarot Qowaidul Lughoh - Ustadz Muhsin
+youtube-dl https://www.youtube.com/playlist?list=PL9D_HXwsPLpgN5jO9oM-sQyJ7IfKnCtGu --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Mulakhos Qowaidul Lughoh - Ustadz Muhson Baidowi
+youtube-dl https://www.youtube.com/playlist?list=PL9D_HXwsPLpiJVfkwxBmU3epf1HDeFDpM --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+

@@ -1,0 +1,63 @@
+DONE
+Bermain dengan Anak - dr tiwi
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5If9J1IG1P1nHTeXgeaP1HS --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+MPASI Sehat Pada Bayi
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5IGxt5s9gWmDoEqBbeDmZjO --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Child First Aid
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JBGUfc-dDJv1Z5-h9zynEs --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Multiple Intelligence pada Batita
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JgLqkmXYQECNgDt6IeTZi7 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Merawat dan Bermain Bayi dan Batita
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5KcXh34RxW1pVXEtjuzMMkc --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+MPASI Makanan Pendamping ASI
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5KVIQl1ux117aBgFhcclXq3 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Breastfeeding 911 Menyusui ASI
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5Ihw6FYOnLRqIXoopDwURg3 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Pengaruh Gadget pada Anak
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5IkBz7ZJVvhk8tJzDfK3K_m --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Stimulasi Dini untuk Bayi
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5LLf6NGobpmLAT0cZg02KIV --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Dongeng Anak
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5LiOmF-QWZkMnBapI1HIrz1 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Bicara dan Bahasa pada anak
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JETNpZp_IWpHrQWJqH4nRh --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Lindungi Anak dari Kejahatan Seksual
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JoJNhnuEwjpUXui-ugSDEG --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Kesehatan Kulit Bayi
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JZe0h1eqbEKAA9qH8iBhFQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Kupas Tuntas Alergi pada Bayi
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5IGrPJ5ckk4Y07u4LhczbI- --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Ayah Hebat, Bersama Ibu Optimalkan Anak
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5LCUkblhzQsVk1S1qnJ542L --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Nutrisi Ibu Hamil & Ibu Menyusui
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5KkTuN9nonI2uVohnzuuu6w --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Gigi & Stimulasi Makan
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5InJJx8lDmQqTjLaq9Uxqf2 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Bunda Growth & Development Clinic
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JgW6ZdnscXdD4rQl9L3kFP --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+ASI & Imunisasi
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5IUcYVfDDKVF3IHLHvdbNLc --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Persiapan Kehamilan dan Persalinan
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5KoXYoWc_IDUgP-fvIsovtl --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Ibu Adalah Dokter Terbaik Untuk Anak
+youtube-dl https://www.youtube.com/watch?list=PLS99bFqMqw5JzmWsOm5vG-vAfypcqO60v --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub

@@ -1,0 +1,10 @@
+cara dan sifat sholat nabi -  abu yahya badrussalam
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkfLaKUWzO2Q6nOYtnnlyMOx --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+
+foldering ulang
+07 akhlak/popular video al-adab al-mufrad
+
+
+
+youtube-dl https://www.youtube.com/watch?v=z68DsgYgDDA --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

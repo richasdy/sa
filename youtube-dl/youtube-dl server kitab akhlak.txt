@@ -1,0 +1,19 @@
+Adab Al-Mufrad, Imam Bukhari.
+
+Adabul Mufrad - Dr. Syafiq Reza Basalamah
+youtube-dl https://www.youtube.com/playlist?list=PLkDDTzIl6h1TupVy1Qt9ZXSQjgribpq7e --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Popular Videos - Al-Adab al-Mufrad & Ustad --> 170
+youtube-dl https://www.youtube.com/playlist?list=PLXX-6_gaqSrMOTPyWtxmlcBJrIOpTCfGf --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Al-Adab Al-Mufrad - Imam Wasim Kempson
+youtube-dl https://www.youtube.com/playlist?list=PLUxdv8J24Mi_UuEMXSe9E9cFRKPEVo16g --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Al-Adab Al-Mufrad - Islamic Lectures
+youtube-dl https://www.youtube.com/playlist?list=PL13211E2385AEFDA1 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Popular Videos - Al-Adab al-Mufrad & Public speaker
+youtube-dl https://www.youtube.com/playlist?list=PLXX-6_gaqSrM5n16cAs-F9VdpE5sSO0Tf --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Al-Adab Al-Mufrad by Imam Bukhari RA - Mufti Hussain Kamani
+youtube-dl https://www.youtube.com/playlist?list=PL388769237C6C96ED --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

@@ -1,0 +1,10 @@
+TAZKIYATUN NUFUS
+
+Syarh Riyadh Ash-Shalihin
+
+RIYADHUSH SHALIHIN - Abu Yahya Badrussalam
+youtube-dl https://www.youtube.com/playlist?list=PL5xqf-emJP97m4EE-mxM44RBk86W4TM7i --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+NOW
+Kajian Kitab RIYADHUSH SHALIHIN - Hasan Al Jaizy
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADlN0O-P1K1_-YI5rBDhes7h --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

@@ -1,0 +1,7 @@
+Asy-Syamail Al-Muhammadiyyah
+
+Asy Syamail Muhammadiyah - Al Habib Ali Zainal Abidin
+youtube-dl https://www.youtube.com/playlist?list=PLahQ43c-v7YL2donngKoLyQewt4mOJL0p --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Syamail Muhammad Syeikh Fuad al-Maliki
+youtube-dl https://www.youtube.com/playlist?list=PLesV1y2-DNNmBwXtlSRTbmwxh7a5VYtyc --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

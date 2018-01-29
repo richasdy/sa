@@ -1,0 +1,31 @@
+DONE
+
+Collect By Me
+youtube-dl https://www.youtube.com/playlist?list=PLAc6B3ulGMsHO1xnXYtydIvjq4dLNb0ow --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Hadjarusj Sjamsi - Ustadz DR. Erwandi Tarmizi, MA	FIQIH
+youtube-dl https://www.youtube.com/watch?list=PLaJvfY8iNAOL7e2A8ADZR6QswZDUmx1lQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Rahman Luthfi Herdian	Erwandi Tarmizi - Muamalat Kontemporer
+youtube-dl https://www.youtube.com/watch?list=PLoZmPl0LxjOJyNFdm7e_590ulJtIT-D9V --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub		
+
+Rodja TV	Ustadz Dr. Erwandi Tarmizi, M.A.
+youtube-dl https://www.youtube.com/watch?list=PLkoppbLhnzfabAagRnnSHLyxhYMJJzib2 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub		
+
+ROCHMAT GHM	ustadz Dr.Erwandi Tarmizi M.A
+youtube-dl https://www.youtube.com/watch?list=PLv_twqlH044Oq2aIYLJjXljsDkfI-imPg --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub		
+
+Sulis Nuryanto	Koperasi syariah	
+youtube-dl https://www.youtube.com/watch?list=PL_AkHIpjmXuh9qVVpb0MBoSd91hODdaL9 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub	
+
+AL-HUJJAH Channel Islam	Erwandi Tarmizi	
+youtube-dl https://www.youtube.com/watch?list=PL_NybqZKsIZoKdisfsDJyDLLvASYV8fTt --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub	
+
+Muhammad Darismanto	Ustad Erwandi Tarmizi	
+youtube-dl https://www.youtube.com/watch?list=PLy27SCz3xG6bn2dJ5NRCfhHnnU1G5XP4J --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub	
+
+Wesley Padmawijaya	DR ERWANDI TARMIZI
+youtube-dl https://www.youtube.com/watch?list=PLPBy6Xw6pT62N8JYoyuOYOw-1OV4VZOJP --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub		
+
+IRDC Ittihad Rumbai	Kajian Muamalah - Ustadz DR. Erwandi Tarmizi MA
+youtube-dl https://www.youtube.com/watch?list=PLB-O73pQ5zpwGLchi3q4_Tnq2JYZefeS9 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub		

@@ -1,0 +1,2 @@
+The Beginning and the End - Sheikh Omar Suleiman
+youtube-dl https://www.youtube.com/playlist?list=PLutdSTmJ7bALsUhQRrcMIMLXbG6GPXpGv --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

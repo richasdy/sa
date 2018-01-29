@@ -1,0 +1,69 @@
+Hadits Arbain - Ustadz Abu Yahya Badrusalam - Rodja Pontianak
+TaslimTv - Ustadz Abu Yahya Badrusalam, Lc	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PLcVYDt9adB3J0FcWT13krk1saT-yRTk0L --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Kajian Kitab Arbain Nawawi - Buya Yahya
+Al-Bahjah TV -  Buya Yahya	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PLolVi5Y2k-tefGiekmChNll5_MwVmNN56 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Hadits Arbain Imam An Nawawi - Ustadz Abu Yahya Badrusalam
+SAFDAH TV - Ustadz Abu Yahya Badrusalam, Lc	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PLJZWV8G22LRt6Vlu-MLrzYXs3pItCMTyl --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Kajian hadist arbai - Ustadz Abdul Somad
+Tafaqquh video - Ustadz Abdul Somad, Lc. MA	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PL7DboeFKRKaU_oke2Y7-zhy7vcE7Fg45i --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Hadits Arbain - Ustadz Abu Yahya Badrusalam
+Rodja TV - Ustadz Abu Yahya Badrusalam, Lc	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PL3uJLeFv3BB7tbgtXccIHzXshr07AmWLr --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Al arbain an-nawawi - Ustadz Abu Yahya Badrusalam
+Rodja Bandung - Ustadz Abu Yahya Badrusalam, Lc	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PLi017L0sdzV4yOM92R9H3116Sd7x6C_Hl --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+40 Nawawi Hadith - Shaykh Waleed Basyouni
+Clear Lake Islamic Center - Shaykh Waleed Basyouni	Hadits Al-Arba’in An-Nawawiyyah: Imam Nawawi.
+youtube-dl https://www.youtube.com/playlist?list=PLNAz7CFk1msplexbSjalFCvLIbF5qxdx4 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+JAMI AL-ULUM WA AL-HIKAM - Hasan Al Jaizy
+Hasan Al Jaizy	Jami’ Al-‘Ulum wa Al-Hikam
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADmkYLlXGdG1ORW_0EeriEG0 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Jami Al Ulum wa Al Hikam - Dr Rozaimi Ramle
+Hufadz Izzudin R - Dr. Rozaimi Ramle - campuran	Jami’ Al-‘Ulum wa Al-Hikam
+youtube-dl https://www.youtube.com/playlist?list=PLa4KFRx0jvH19VIMr3jT3ncjz_HNu9cJK --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Jamiul Ulum wal Hikam - Dr Rozaimi Ramli
+PROmediaTAJDID - Dr Rozaimi Ramli	Jami’ Al-‘Ulum wa Al-Hikam
+youtube-dl https://www.youtube.com/playlist?list=PLv_xoi4FGsu8HPv-WynCSrHgTN_uZnETa --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+jami ulum wal hikam - dr rora
+rafi ahlullah - Dr Rozaimi Ramli	Jami’ Al-‘Ulum wa Al-Hikam
+youtube-dl https://www.youtube.com/playlist?list=PLaw0W2NkoOK1f8Gfoa_P9wXLKNiT-7u_A --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+	
+Buloogh al Maram - Ustadh Muhammad Tim Humble
+KALEMAH - Ustaadh Muhammad Tim Humble	Bulugh Al-Maram
+youtube-dl https://www.youtube.com/playlist?list=PLo8-JRSO3j92z_TfuF1UwYMqrMB731DJY --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Lessons in Fiqh - Bulugh al Maram - Shaykh Assim Al Hakeem
+Shaykh Assim Al Hakeem	Bulugh Al-Maram
+youtube-dl https://www.youtube.com/playlist?list=PLmeZZmICk2Qc8yyg5BVXXXguDAoQmxGor --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Bulugh Al Maram - Shaykh Waleed
+Clear Lake Islamic Center - Shaykh Waleed Basyouni	Bulugh Al-Maram
+youtube-dl https://www.youtube.com/playlist?list=PLNAz7CFk1msqyu4iOtqc_blGuU9b-SoOk --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Bulugh al-Maram - Ustadh Zahed Fettah
+Ilm Circle	Bulugh Al-Maram
+youtube-dl https://www.youtube.com/playlist?list=PLLEwR_ZljHmn_l5gwAgzbUWIXbRH4aB9b --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Popular Videos - Bulugh al-Maram --> 200 Videos
+Muslim Youth Trust - Shaikh Zahed Fettah 	Bulugh Al-Maram
+youtube-dl https://www.youtube.com/playlist?list=PLsp8qW_FwEFT1HlBOjY76_wAhvorlZZFT --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+NOW
+Umdat Al-Ahkam - Abdul-Ghani Al-Maqdesi
+Dar Al Salam Audio - Abdul Ghani Al-Maqdesi	‘Umdah Al-Ahkam
+youtube-dl https://www.youtube.com/playlist?list=PLqV13G-fH1_-6Ut38-tnPGupjWKQ2InBU --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+

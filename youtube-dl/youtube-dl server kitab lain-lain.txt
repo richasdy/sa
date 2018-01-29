@@ -1,0 +1,62 @@
+Bedah Buku-Buku Saku - Kajian Ramadhan 1436 - Ust Muflih Safitra
+youtube-dl https://www.youtube.com/playlist?list=PLc1mXVdI4n_kFPPR9kul6W9MFMBqhvVcP --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Cara & Sifat Shalat Nabi - Badrussalam Abu Yahya
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkfLaKUWzO2Q6nOYtnnlyMOx --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Fiqih Asmaul Husna - Badrussalam Abu Yahya
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkcisY8tbARGo6JOmMmXInPJ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+KAJIAN TAZKIYATUN NUFUS - HASAN AL-JAIZY
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADnx-9s8dOn2BBLVnp1WVDMm --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Syarah Aqidah Ahlus Sunnah wal Jamaah - Ustadz Yazid Jawas
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkfH1b59VJlHbwX55HKJxZ1k --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+--------------------------------
+diatas semua di server
+--------------------------------
+
+DONE@server
+Sifat Wudhu dan Shalat Nabi - Badrussalam Abu Yahya
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkcj2XXP_gP8prMChAR5154x --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@Local
+Mengapa Harus Manhaj Salaf - Badrussalam Abu Yahya
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkf4w2TIZWFAye39MEwFR3Gf --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@server
+Syarah Aqidah Salaf - Ustadz Abdul Hakim bin Amir Abdat
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkfCk5c3jH4rk9BiiQkPwoN0 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@local
+Silsilah al-Ahadits ash-Shahihah - Badrussalam Abu Yahya --> 73
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkf1JpL79Gmm0z7rGitiWU-s --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@server
+Kitab al-Qowaidul Mutsla - Ustadz Firanda Andirja --> 5
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkeKFheSnuV7jRLfYZUj9_Vp --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@server
+AL-QAWAID AL-MUTSLA - Hasan Al Jaizy --> 20
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADmAYtsAZ9301ZvUbyTSjwvj --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@server
+Mengenal Ilmu Hadits - Badrussalam Abu Yahya --> 3
+youtube-dl https://www.youtube.com/playlist?list=PLivm_YRDjLkcOGY_t8HVghSMCjmPEn3KZ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@server
+MATH-THIBB AN-NABAWY - Kajian Kedokteran - Hasan Al Jaizy --> 2
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADmdasGxPyc0VtYBCCT8pnIS --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@local
+SYARH BULUGHUL MARAM - Taudhihul Ahkam - Hasan Al Jaizy --> 49
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADnZBIBak3SOVMkbSTE_GJdH --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@local
+1000 AMALAN SUNNAH SEHARI SEMALAM - Hasan Al Jaizy --> 36
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADnN0sZJZTLDyKtIrK-yKR7Z --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE@server
+100 KEYAKINAN JAHILIYAH - Hasan Al Jaizy --> 31
+youtube-dl https://www.youtube.com/playlist?list=PLBddeLsLuADljoasHGFgjDO3Ui9WcX_9H --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

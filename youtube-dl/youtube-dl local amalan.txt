@@ -1,0 +1,5 @@
+Pengajian Kitab Al-Adzkar - Ust Walid Abu Khalid
+youtube-dl https://www.youtube.com/playlist?list=PL-5c8xnW46wGrjEZzJ05I4GCgbQWyzwTI --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+daurah kitab al-adzkar - Baba mashadi
+youtube-dl https://www.youtube.com/playlist?list=PLywtEMn0_cZsooyFE-Sqqiu_4sJnIVKTB --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
