@@ -8,3 +8,18 @@ foldering ulang
 
 
 youtube-dl https://www.youtube.com/watch?v=z68DsgYgDDA --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+
+7 popula, muhammad nasrul
+DONE
+youtube-dl https://www.youtube.com/watch?v=sefc-m-2SYM --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE
+7 popula, muhammad nasrul
+youtube-dl https://www.youtube.com/watch?v=PMelcJFJLPU --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+DONE
+5 campur, Usamah As Sayyid Al Azhary & Muhammad Abdul Rahman
+Huraian Kitab Risalah Muhammadiah - Part 3/3
+youtube-dl https://www.youtube.com/watch?v=11Y98rPIXSQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
