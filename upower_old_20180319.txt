@@ -1,0 +1,24 @@
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+
+  native-path:          BAT0
+  serial:               100
+  power supply:         yes
+  updated:              Sen 19 Mar 2018 10:48:16  WIB (56 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               charging
+    warning-level:       none
+    energy:              0 Wh
+    energy-empty:        0 Wh
+    energy-full:         0 Wh
+    energy-full-design:  0 Wh
+    energy-rate:         0 W
+    voltage:             2,561 V
+    percentage:          0%
+    capacity:            100%
+    technology:          lithium-ion
+    icon-name:          'battery-caution-charging-symbolic'
+

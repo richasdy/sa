@@ -1,0 +1,79 @@
+300 node --> small cluter
+100 node?
+1000 node --> 2 jam
+
+DIGITAL OCEAN
+Standar
+DO 8GB Mem, 4 vCPU, 80TB, 5TB Transfer : 0.119/h ----> INI, 100 node --> 11,1/h
+
+Hi Compute
+DO 12GB Mem, 8 Dedicated vCPU, 20TB, 5TB Transfer : 0.238/h
+DO 24GB Mem, 16 Dedicated vCPU, 20TB, 5TB Transfer : 0.476/h
+DO 48GB Mem, 32 Dedicated vCPU, 20TB, 5TB Transfer : 0.952/h  
+
+Hi Mem
+DO 16GB Mem, 2 vCPU, 30TB, 6TB Transfer : 0.18/h —> docker sandbox
+DO 32GB Mem, 4 vCPU, 90TB, 7TB Transfer : 0.36/h
+DO 64GB Mem, 8 vCPU, 200TB, 8TB Transfer : 0.71/h 
+
+AWS
+t2.large, vCPU 2, ECU Variable, Memory 8, Storage EBS Only  :  0.0940/h ----> INI, 100 node --> 9,4/h
+m4.large, vCPU 2, ECU 6.5, Memory 8, Storage EBS Only  :  0.1080/h
+m3.large, vCPU 2, ECU 6.5, Memory 7.5, Storage 1 x 32 SSD  :  0.1330/h
+t2.xlarge, vCPU 4, ECU Variable, Memory 16, Storage EBS Only  :  0.1880/h
+m4.xlarge, vCPU 4, ECU 13, Memory 16, Storage EBS Only  :  0.2150/h
+m3.xlarge, vCPU 4, ECU 13, Memory 15, Storage 2 x 40 SSD  :  0.2660/h
+
+EBS Only = 20TiB = 21TB
+
+HADOOP TELKOM
+Cluster1 -> 40 Node
+Cluster2 -> 7 Node
+Cluster3 -> 7 Node
+Cluster4 -> 86 Node
+TOTAL : 4 Cluster, 140 Node
+
+===========================================
+
+HOW TO MANAGE HADOOP CLUSTER WITH INFRASTRUCTURE MANAGER??
+
+Chef, Puppet, Ansible, SaltStack and Terraform
+https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
+
+===========================================
+
+Google : Hortonworks install AWS
+
+HORTONWORKS 
+https://hortonworks.com/downloads/#data-platform
+https://hortonworks.com/tutorials/
+Automatics Install with Apache Ambari
+
+DOCKER HORTONWORKS
+https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/3/
+
+AZURE HORTONWORKS
+https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/4/
+
+AWS HORTONWORKS
+https://hortonworks.com/products/cloud/aws/
+https://docs.hortonworks.com/HDPDocuments/HDCloudAWS/HDCloudAWS-1.16.2/bk_hdcloud-aws/content/index.html
+https://hortonworks.com/blog/deploying-hadoop-cluster-amazon-ec2-hortonworks/
+http://blog.sequenceiq.com/blog/2014/02/07/hdp2-on-amazon/
+https://hortonworks.com/hadoop-tutorial/introducing-apache-ambari-deploying-managing-apache-hadoop/
+
+===========================================
+
+Google : Cloudera install AWS
+Google : Cloudera install Digital Ocean
+
+CLOUDERA
+DIGITAL OCEAN CLOUDERA
+http://sleepythread.blogspot.co.id/2014/11/setting-up-hadoop-cluster-using.html
+
+===========================================
+
+KRITERIA MENERIMA PEKERJAAN
+detail kerjaan apa?
+kerjaan diluar jobdesk boleh ditolak?
+kerja sendiri atau tim? profile anggota tim lain?

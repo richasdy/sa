@@ -23,3 +23,20 @@ DONE
 Huraian Kitab Risalah Muhammadiah - Part 3/3
 youtube-dl https://www.youtube.com/watch?v=11Y98rPIXSQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
 
+TANYA JAWAB KHALID UNTUK PAPA
+youtube-dl https://www.youtube.com/playlist?list=PLNXizroPdooqSnxe2emRpWM1qsQXSNsX- --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+LEARN TOBE IMAM DONE
+youtube-dl https://www.youtube.com/playlist?list=PLAc6B3ulGMsGm9wha4arp6xD-onWAQS1d --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+LEARN TO BE MUADZIN DONE
+youtube-dl https://www.youtube.com/playlist?list=PLAc6B3ulGMsGyFRl_6cblE4TVtFtAA08Z --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+FreeQuran Education 1-993
+1-610
+youtube-dl https://www.youtube.com/playlist?list=UUNdUFOtzSx3FS71pHkQLxhQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+610-993
+youtube-dl https://www.youtube.com/playlist?list=UUNdUFOtzSx3FS71pHkQLxhQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors --playlist-start 611
+
+

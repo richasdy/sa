@@ -1,0 +1,40 @@
+
+NOW
+Archery Information
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmA4XcHnuQEfc_qYsiRrL_Uq  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Equipment
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmC5MDA0anpHRHsiHA0N6oeX  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Annoyances
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmAWBoF1zE0p0EZSujQ1UDEl  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Reflections
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmC33av8chRJ0yRHv0XfT4RB  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Making Bowstrings
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmD08neP6zBuBUHK1jbjNwHn  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+NUArchery
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmBzi3ntVCRh5YsqHrzwgmy9  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+NU Archery Practice
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmBLQuTL5npCQMStvNXjZaOW  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Events
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmDtGjotnCz_DAWSChYEiPij  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Q&A
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmCljca5wt8WhAgW_wNJJcm7  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Tropes
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmAq2mD6ogc7YdiYhdj67Kmq  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery Popshots
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmDZ4I8NgyUOXUTaxDqM0DZz  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Archery History
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmDBpaoMr4zL0H9UbDX_u2Wt  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Form Checks
+youtube-dl https://www.youtube.com/watch?list=PL5CLRC8gaQmDNyTaK64wEU5jZbN4ZX4pe  --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub

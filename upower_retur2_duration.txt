@@ -1,0 +1,4 @@
+sesi 1 09.00-11.30 : 02.30
+sesi 2 XX.XX-XX.XX : XX.XX
+sesi 3 XX.XX-XX.XX : XX.XX
+TOTAL			   : XX.XX
