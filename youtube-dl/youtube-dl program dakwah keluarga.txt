@@ -1,0 +1,99 @@
+kirimkan 1 video perhari
+tema video
+1. syaitan
+2. surga dan neraka
+3. akidah
+4. dosa besar
+5. dst
+
+Asal Usul Setan KuntilAnak, Sunder Bolong, Genderuwo DKK | Ustadz Abdul Somad
+youtube-dl https://www.youtube.com/watch?v=7Yr72kXlifY --format 18 --external-downloader aria2c
+ffmpeg -i "Asal Usul Setan KuntilAnak, Sunder Bolong, Genderuwo DKK _ Ustadz Abdul Somad Lucu Terbaru-7Yr72kXlifY.mp4" -vf scale=320:-1 -strict -2 "Asal Usul Setan KuntilAnak, Sunder Bolong, Genderuwo DKK _ Ustadz Abdul Somad Lucu Terbaru-7Yr72kXlifY_320.mp4"
+ffmpeg -i "Asal Usul Setan KuntilAnak, Sunder Bolong, Genderuwo DKK _ Ustadz Abdul Somad Lucu Terbaru-7Yr72kXlifY_320.mp4" -vcodec h264 -acodec mp3 "Asal Usul Setan KuntilAnak, Sunder Bolong, Genderuwo DKK _ Ustadz Abdul Somad Lucu Terbaru-7Yr72kXlifY_320_h264_mp3.mp4"
+ffmpeg -i "Asal Usul Setan Kuntilanak, Sunder Bolong, Genderuwo DKK | Ustadz Abdul Somad.mp4" -ss 00:00:27 -t 00:11:11 -async 1 -strict -2 "Asal Usul Setan Kuntilanak, Sunder Bolong, Genderuwo DKK | Ustadz Abdul Somad_cut.mp4"
+
+format code  extension  resolution note
+249          webm       audio only DASH audio   51k , opus @ 50k, 1.24MiB
+250          webm       audio only DASH audio   65k , opus @ 70k, 1.51MiB
+171          webm       audio only DASH audio  107k , vorbis@128k, 2.38MiB
+251          webm       audio only DASH audio  120k , opus @160k, 2.78MiB
+140          m4a        audio only DASH audio  127k , m4a_dash container, mp4a.40.2@128k, 3.13MiB
+278          webm       256x144    144p  106k , webm container, vp9, 25fps, video only, 2.40MiB
+160          mp4        256x144    144p  111k , avc1.4d400c, 25fps, video only, 2.70MiB
+242          webm       426x240    240p  181k , vp9, 25fps, video only, 2.99MiB
+133          mp4        426x240    240p  249k , avc1.4d4015, 25fps, video only, 6.05MiB
+134          mp4        640x360    360p  256k , avc1.4d401e, 25fps, video only, 5.91MiB
+243          webm       640x360    360p  317k , vp9, 25fps, video only, 5.40MiB
+244          webm       854x480    480p  502k , vp9, 25fps, video only, 8.77MiB
+135          mp4        854x480    480p  557k , avc1.4d401e, 25fps, video only, 12.85MiB
+247          webm       1280x720   720p  944k , vp9, 25fps, video only, 18.34MiB
+136          mp4        1280x720   720p 1121k , avc1.4d401f, 25fps, video only, 25.93MiB
+17           3gp        176x144    small , mp4v.20.3, mp4a.40.2@ 24k
+36           3gp        320x180    small , mp4v.20.3, mp4a.40.2
+43           webm       640x360    medium , vp8.0, vorbis@128k
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+
+WORKFLOW
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 18 --external-downloader aria2c
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18.mp4" -vf scale=320:-1 -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -vcodec h264 -acodec mp3 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_h264_mp3.mp4"
+
+WORKFLOW atau
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 22 --external-downloader aria2c
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_22.mp4" -vf scale=320:-1 -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_22_320.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_22_320.mp4" -vcodec h264 -acodec mp3 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_22_320_h264_mp3.mp4"
+
+WORKFLOW draft
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 18 --external-downloader aria2c
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18.mp4" -vf scale=320:-1 -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -vcodec h264 -acodec aac  -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_h264_aac.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -vcodec h264 -acodec mp3 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_h264_mp3.mp4"
+
+
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18.mp4" -vf scale=320:-1 -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -fs 2048k # cut by size
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -vcodec h264 -acodec aac -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_h264_aac.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -vcodec h264 -acodec mp3 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_h264_mp3.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -vcodec mpeg4 -acodec mp3 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_mpeg4_mp3.mp4"
+
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4"
+ffmpeg -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320_reduce.mp4"
+
+
+resize
+ffmpeg -strict -2 -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18.mp4" -vf scale=320:-1 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -strict -2
+ffmpeg -strict -2 -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18.mp4" -vf scale=320:-1 -strict -2 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" 
+ffmpeg -strict -2 -i "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18.mp4" -vf scale=320:-1 "Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA-CDZnrj-GWM0_18_320.mp4" -strict experimental
+
+Apa Perbedaan Iblis, Jin dan Syaitan. DR Khalid Basalamah MA
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --list-formats
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 22 --external-downloader aria2c # best, wa oke
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 17 --external-downloader aria2c #  wa not support
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 18 --external-downloader aria2c #  wa oke
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 43 --external-downloader aria2c #  , wa not video view
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 249 --external-downloader aria2c #audio only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 278 --external-downloader aria2c # video only, wa not video view
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 160 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 133 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 134 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 135 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 136 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 242 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 243 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format 244 --external-downloader aria2c # video only
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format '278+249' --external-downloader aria2c
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format '160+249' --external-downloader aria2c
+youtube-dl https://www.youtube.com/watch?v=CDZnrj-GWM0 --format '160+249' --external-downloader aria2c --audio-format mp3 --recode-video mp4
+
+Nasehat bagi orang yang takut akan syaitan, Ustadz DR Khalid Basalamah, MA
+youtube-dl https://www.youtube.com/watch?v=cebEdIyxc-M --external-downloader aria2c
+
+Kenalilah cara dan tipu daya syaitan, Ustadz DR Khalid Basalamah, MA
+youtube-dl https://www.youtube.com/watch?v=puZrLxTNZV4 --external-downloader aria2c
+
+
+Asy Syamail Muhammadiyah - Al Habib Ali Zainal Abidin
+youtube-dl https://www.youtube.com/playlist?list=PLahQ43c-v7YL2donngKoLyQewt4mOJL0p --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors
+
+Syamail Muhammad Syeikh Fuad al-Maliki
+youtube-dl https://www.youtube.com/playlist?list=PLesV1y2-DNNmBwXtlSRTbmwxh7a5VYtyc --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub --ignore-errors

@@ -1,0 +1,32 @@
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+
+  native-path:          BAT0
+  vendor:               SMP
+  model:                L12M4E01
+  serial:               12596
+  power supply:         yes
+  updated:              Sen 30 Apr 2018 09:50:22  WIB (48 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               discharging
+    warning-level:       none
+    energy:              19,85 Wh
+    energy-empty:        0 Wh
+    energy-full:         23,27 Wh
+    energy-full-design:  37,5 Wh
+    energy-rate:         5,103 W
+    voltage:             15,281 V
+    time to empty:       3,9 hours
+    percentage:          85%
+    capacity:            62,0533%
+    technology:          lithium-ion
+    icon-name:          'battery-full-symbolic'
+  History (charge):
+    1525056614	85,000	discharging
+  History (rate):
+    1525056622	5,103	discharging
+    1525056614	5,039	discharging
+

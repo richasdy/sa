@@ -1,0 +1,18 @@
+DONE
+
+Phillip Education - Technical Analysis
+youtube-dl https://www.youtube.com/playlist?list=PLmhZPXVv7d4x_8mN2nV_ko_AvmQi_brOH --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Strategy Trading Saham JSXPROID
+youtube-dl https://www.youtube.com/playlist?list=PLjPXuypTt-5tBJvror1WOKpYNipeDZmho --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+Strategy Investasi Saham JSXPROID
+youtube-dl https://www.youtube.com/playlist?list=PLjPXuypTt-5uRS46yD3qyIgcZCxNZk1cZ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --write-auto-sub
+
+
+====
+percobaan dengan number of connection
+
+youtube-dl https://www.youtube.com/playlist?list=PLmhZPXVv7d4x_8mN2nV_ko_AvmQi_brOH --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "-j 8 -s 8 -x 8 -k 5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/playlist?list=PLmhZPXVv7d4x_8mN2nV_ko_AvmQi_brOH --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
