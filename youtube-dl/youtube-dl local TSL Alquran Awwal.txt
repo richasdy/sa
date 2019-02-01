@@ -1,0 +1,5 @@
+TSL Ust Rendi Pertemuan 1
+youtube-dl https://www.youtube.com/watch?v=nNlDf1rNVnQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+TSL ust Walid materi 1
+youtube-dl https://www.youtube.com/watch?v=Io613uJEfdw --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
