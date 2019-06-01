@@ -1,0 +1,32 @@
+Kajian Kitab Minhajul Muslim [139]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshBpsfAtt9m7usxweEDj61u- --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Kajian Bulughul Maram [152]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshCAdk8-NMzQsQieGqhm5NFI --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Beginilah Seharusnya Mendidik Anak [15]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshDSMnIE8yyiKq-hLy81f4yA --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Kajian Kitab Riyadhush Shalihin [36]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshASbG0_AVVnP8_X65uorm9X --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Kajian 1000 Amalan Sunnah dalam Sehari Semalam [5]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshBNGOsY5xNPLZDZpnaXIIDk --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Sirah Sahabat Nabi (Sejarah Sahabat Nabi) [46]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshBxyBg4TzEtKETkzOfv4mvB --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Kajian Kitab Tauhid [10]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshBmQnOQUCzmVQ-KC04FAX6A --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Kajian At-Tadzkirah [16]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshBtPCav0_nfgk60dk99PvvU --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Sirah Nabawiyyah [BALIKPAPAN] [28]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshBgZZf8VOC4IonQtFxPsifW --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Shahih At-Targhib wa At-Tarhib [7]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshDbd-q-FlYL1k0R7PyEF0fb --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Kajian Al-Adab Al-Mufrad [18]
+youtube-dl https://www.youtube.com/playlist?list=PLlK0gGuioshCBzNvMQ2rAWX8cARih91Hx --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
