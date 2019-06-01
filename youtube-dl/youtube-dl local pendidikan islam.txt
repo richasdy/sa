@@ -1,0 +1,12 @@
+Kajian Fikih Pendidikan Anak - Ustadz Abdullah Zaen, MA [107]
+youtube-dl https://www.youtube.com/playlist?list=PLUuYlj8dcEXYZBPq35-6W3sIdfagN5pfn --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Pendidikan Islam [38]
+youtube-dl https://www.youtube.com/playlist?list=PLAc6B3ulGMsHDkQqOMaNr5deCXS1CPeU8 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+Pendidikan Anak dalam Islam [7]
+youtube-dl https://www.youtube.com/playlist?list=PLUuYlj8dcEXbmmvUL-RimCY0gVuMHikcz --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+
+Pengusaha Muslim Sukses [114]
+youtube-dl https://www.youtube.com/playlist?list=PLUuYlj8dcEXbsmLYNRnUQQT3YHNdgBfYR --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
