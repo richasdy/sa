@@ -1,0 +1,33 @@
+youtube-dl https://www.youtube.com/watch?v=CVX9TnRIAbI --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=x9VkqVoJhGo --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=z_LRE7-KSsI --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=yvRc-ZT1UGI --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=cZK38qXHYnM --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=dl9PJk8vYkg --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=_XkDy2EmGUU --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=iVdH_swSDRs --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=3oju2adFbZ4 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=aoskceyGTaQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=LIpyVHS8sEs --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=NN354hmqeeQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=d6hCpZujJFc --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=W6KScEmyQ74 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=DHclTkgDpg8 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=2WTog-X99N4 --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
+
+youtube-dl https://www.youtube.com/watch?v=IhoNLuC24KQ --format 'bestvideo[ext=mp4]+bestaudio/best[ext=m4a]' --external-downloader aria2c --external-downloader-args "--max-concurrent-downloads=8 --split=8 --max-connection-per-server=8 --min-split-size=5M" --write-auto-sub
