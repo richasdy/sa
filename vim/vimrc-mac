@@ -1,0 +1,30 @@
+set number
+
+call plug#begin()
+Plug 'tpope/vim-sensible'
+Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'romainl/Apprentice'
+Plug 'joshdick/onedark.vim'
+Plug 'nanotech/jellybeans.vim'
+Plug 'morhetz/gruvbox'
+Plug 'fatih/molokai'
+Plug 'chriskempson/base16-vim'
+Plug 'altercation/vim-colors-solarized'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+call plug#end()
+
+syntax on
+
+"colorscheme apprentice 
+"colorscheme onedark 
+colorscheme jellybeans 
+"autocmd vimenter * colorscheme gruvbox 
+"colorscheme molokai 
+"colorscheme base16-default-dark
+
+"syntax enable
+"set background=dark
+"colorscheme solarized
+
+let g:airline_theme='jellybeans'
