@@ -1,0 +1,43 @@
+set nocompatible
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+
+call vundle#begin()
+Plugin 'VundleVim/Vundle.vim'
+call vundle#end()
+
+" Pathogen
+execute pathogen#infect()
+call pathogen#helptags() " generate helptags for everything in 'runtimepath'
+
+syntax on
+filetype plugin indent on
+ 
+call plug#begin()
+Plug 'tpope/vim-sensible'
+Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'romainl/Apprentice'
+Plug 'joshdick/onedark.vim'
+Plug 'nanotech/jellybeans.vim'
+Plug 'morhetz/gruvbox'
+Plug 'fatih/molokai'
+Plug 'chriskempson/base16-vim'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+call plug#end()
+
+"colorscheme apprentice 
+""colorscheme onedark 
+colorscheme jellybeans 
+"autocmd vimenter * colorscheme gruvbox 
+""colorscheme molokai 
+"colorscheme base16-default-dark
+
+let g:airline_theme='jellybeans'
+
+set number
+
+" Set status line display
+set laststatus=2
+set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ [BUFFER=%n]\ %{strftime('%c')}
+
